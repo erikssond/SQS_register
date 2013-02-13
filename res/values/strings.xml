@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hidden Planet</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_message">Registration complete</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_send">Send</string>
+    
+    <string name="activity_register_1">Username</string>
+    <string name="activity_register_2">First name</string>
+    <string name="activity_register_3">Last name</string>
+    <string name="activity_register_4">Password</string>
+    <string name="activity_register_4b">Repeat password</string>
+    <string name="activity_register_5">E-mail</string>
+    <string name="activity_register_6">Phone number</string>
+    <string name="activity_register_7">Address</string>
+    <string name="activity_register_8">Postal code</string>
+    <string name="activity_register_9">City</string>
+    <string name="activity_register_10">Comments</string>
+    
+    <!--  
+    <string name="activity_register_username">Username</string>
+    <string name="activity_register_firstname">First name</string>
+    <string name="activity_register_lastname">Last name</string>
+    <string name="activity_register_pw">Password</string>
+    <string name="activity_register_repeatpw">Repeat password</string>
+    <string name="activity_register_email">E-mail</string>
+    <string name="activity_register_phone">Phone number</string>
+    <string name="activity_register_address">Address</string>
+    <string name="activity_register_postal">Postal code</string>
+    <string name="activity_register_city">City</string>
+    <string name="activity_register_comments">Comments</string>
+    -->
+    
+</resources>

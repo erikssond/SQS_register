@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="true"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/activity_register_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="@string/activity_register_1" />
+
+    <EditText
+        android:id="@+id/activity_register_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/activity_register_2" />
+
+    <EditText
+        android:id="@+id/activity_register_3"
+        android:layout_width="match_parent"
+        android:hint="@string/activity_register_3"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/activity_register_4"
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:hint="@string/activity_register_4"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/activity_register_4b"
+        android:layout_width="match_parent"
+        android:hint="@string/activity_register_4b"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/activity_register_5"
+        android:inputType="textEmailAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="@string/activity_register_5" />
+
+    <EditText
+        android:id="@+id/activity_register_6"
+        android:inputType="phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="@string/activity_register_6" />
+
+    <EditText
+        android:id="@+id/activity_register_7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="@string/activity_register_7" />
+
+    <EditText
+        android:id="@+id/activity_register_8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="@string/activity_register_8"/>
+
+    <EditText
+        android:id="@+id/activity_register_9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="@string/activity_register_9" />
+
+    <EditText
+        android:id="@+id/activity_register_10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="@string/activity_register_10" />
+    
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_activity_send" 
+        android:onClick="sendMessage" />
+
+</LinearLayout>
